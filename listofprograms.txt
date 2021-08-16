@@ -42,3 +42,5 @@ https://github.com/rudrab/vimf90
 https://github.com/JuliaEditorSupport/julia-vim
 https://github.com/jarolrod/vim-python-ide
 https://realpython.com/vim-and-python-a-match-made-in-heaven/
+http://vim-latex.sourceforge.net/
+https://medium.com/rahasak/vim-as-my-latex-editor-f0c5d60c66fa
