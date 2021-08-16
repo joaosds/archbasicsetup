@@ -31,6 +31,7 @@ Temperature
 # Rofi as dictionary and translator
 https://github.com/maltesa/Rofi-Leo-Dictionary
 https://github.com/defCoding/rofi-dictionary
+https://github.com/polybar/polybar/wiki/Module:-temperature
 
 # ------ alacritty config
 background_opacity -> 0.5 
