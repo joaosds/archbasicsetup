@@ -1,0 +1,42 @@
+# ---- useful links
+1. https://siduck76.github.io/bspwm-dotfiles/
+2. https://archcraft.io/blog/post_install.html
+
+# script
+
+sudo pacman -Syyu && sudo pacman -Syu
+sudo pacman -Ss firefox spotify telegram-desktop texlive-most texstudio lyx 
+yay -Ss gcc-fortran lapack julia 
+
+#autocpufreq
+https://github.com/AdnanHodzic/auto-cpufreq
+yay -Sy auto-cpufreq-git
+systemctl start auto-cpufreq
+systemctl enable auto-cpufreq
+
+
+# manual installation 
+
+1. Mathematica
+2. Miniconda + numpy, pandas, scipy, matplotlib, click psutil distro(auto-cpufreq-git)
+
+# ------ Polybar config
+
+Spotify config:
+ https://www.reddit.com/r/archcraft/comments/og5btt/is_there_a_way_to_connect_mpc_to_spotify/
+ https://github.com/mihirlad55/polybar-spotify-module
+ https://github.com/PrayagS/polybar-spotify
+ 
+Temperature 
+# Rofi as dictionary and translator
+https://github.com/maltesa/Rofi-Leo-Dictionary
+https://github.com/defCoding/rofi-dictionary
+
+# ------ alacritty config
+background_opacity -> 0.5 
+
+# ---- vim
+https://github.com/rudrab/vimf90
+https://github.com/JuliaEditorSupport/julia-vim
+https://github.com/jarolrod/vim-python-ide
+https://realpython.com/vim-and-python-a-match-made-in-heaven/
