@@ -14,6 +14,11 @@ yay -Sy auto-cpufreq-git
 systemctl start auto-cpufreq
 systemctl enable auto-cpufreq
 
+#libreoffice
+latinmodernroman
+texmaths plugin
+
+#bluetooth
 
 # manual installation 
 
