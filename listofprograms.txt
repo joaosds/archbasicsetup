@@ -25,6 +25,8 @@ texmaths plugin
 1. Mathematica
 2. Miniconda + numpy, pandas, scipy, matplotlib, click psutil distro(auto-cpufreq-git)
 
+# GLIBCXX problems 
+cp /lib/libstdc++.so.6 ~/miniconda3/lib/
 # ------ Polybar config
 
 Spotify config:
