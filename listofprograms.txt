@@ -5,9 +5,9 @@
 # script
 
 sudo pacman -Syyu && sudo pacman -Syu
-sudo pacman -S firefox spotify telegram-desktop texlive-most texstudio lyx 
+sudo pacman -S firefox spotify telegram-desktop texlive-most texstudio lyx inkscape
 yay -S gcc-fortran lapack julia 
-
+sudo pacman -S filezilla
 #intel 
 sudo pacman -S lib32-gnutls lib32-libldap lib32-libgpg-error lib32-sqlite lib32-libpulse lib32-alsa-plugins
 sudo pacman -S lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-icd-loader lib32-vulkan-icd-loader
