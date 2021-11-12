@@ -55,3 +55,11 @@ https://github.com/jarolrod/vim-python-ide
 https://realpython.com/vim-and-python-a-match-made-in-heaven/
 http://vim-latex.sourceforge.net/
 https://medium.com/rahasak/vim-as-my-latex-editor-f0c5d60c66fa
+
+
+# common problems
+
+1) with makepkg "==> ERROR: Cannot find the fakeroot binary.
+==> ERROR: Cannot find the strip binary required for object file stripping."
+
+sudo pacman -S base-devel
