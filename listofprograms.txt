@@ -56,6 +56,9 @@ https://realpython.com/vim-and-python-a-match-made-in-heaven/
 http://vim-latex.sourceforge.net/
 https://medium.com/rahasak/vim-as-my-latex-editor-f0c5d60c66fa
 
+# ------ alacritty and ozsh
+
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # common problems
 
